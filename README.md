@@ -1,6 +1,7 @@
 # Grow Projects
 
 ### Hugo + Netlify
+- The Evers Institute [https://dev-eversinstitute.netlify.app/](https://dev-eversinstitute.netlify.app/)
 - GROW Website  [https://growdnd.com](https://growdnd.com)
 - Toby Briggs [https://tobybriggs.com/](https://tobybriggs.com/)
 - Jill Briggs [https://jillbriggs.io/](https://jillbriggs.io/)
