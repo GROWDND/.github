@@ -1,6 +1,7 @@
 # Grow Projects
 
 ### Hugo + Netlify
+- Block Ice [https://blockice.com](https://blockice.com)
 - The Evers Institute [https://dev-eversinstitute.netlify.app/](https://dev-eversinstitute.netlify.app/)
 - GROW Website  [https://growdnd.com](https://growdnd.com)
 - Toby Briggs [https://tobybriggs.com/](https://tobybriggs.com/)
@@ -26,7 +27,6 @@
 
 
 ###### In Progress / Not Live
-- Block Ice [https://blockice.netlify.app](https://blockice.netlify.app)
 - Mandated Supporter [https://mandatedsupporter.netlify.app](https://mandatedsupporter.netlify.app)
 - Chucks Septic [https://chucks-septic.netlify.app](https://chucks-septic.netlify.app)
 - 2023 Redesign - Mandated Reporter Training [https://dev-mandatedreportertraining.netlify.app](https://dev-mandatedreportertraining.netlify.app)
