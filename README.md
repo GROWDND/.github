@@ -11,7 +11,7 @@
 - Melissa Forde [https://melissaforde.com](https://melissaforde.com)
 - Natasha Bell [https://natashambell.com](https://natashambell.com)
 - Mandated Reporter [https://mandatedreporter.com](https://mandatedreporter.com)
-- Mandated Reporter Training [https://mandatedreportertraining.com](https://mandatedreportertraining.com)
+- Mandated Training Training [https://mandatedreportertraining.com](https://mandatedreportertraining.com)
 - Simple Learning [https://simplelearning.com](https://simplelearning.com)
 - Contractor Hub [https://contractorhub.com](https://contractorhub.com)
 - Tri-Square [https://tri-square.com](https://tri-square.com)
@@ -19,18 +19,20 @@
 - 60th Festivities Honoring Medgar & Myrlie Evers [https://mmei60.org](https://mmei60.org)
 - 1687.io [https://1687.io](https://1687.io)
 - 1687Club [https://1687club.com](https://1687club.com)
+- 1687 Productions [https://1687productions.com](https://1687productions.com)
 - Withers Collection [https://thewithersartproject.com](https://thewithersartproject.com)
 - Impact VC [https://impactvc.com](https://impactvc.com)
 - royalChinchillas [https://royalchinchillas.com](https://royalchinchillas.com)
 - Rx Guardian [https://rxguardian.com](https://rxguardian.com)
 - Cannavalle [https://cannavalle.com](https://cannavalle.com)
+- Chucks Septic [https://chucksseptic.com](https://chucksseptic.com)
 
 
 ###### In Progress / Not Live
 - Mandated Supporter [https://mandatedsupporter.netlify.app](https://mandatedsupporter.netlify.app)
-- Chucks Septic [https://chucks-septic.netlify.app](https://chucks-septic.netlify.app)
-- 2023 Redesign - Mandated Reporter Training [https://dev-mandatedreportertraining.netlify.app](https://dev-mandatedreportertraining.netlify.app)
-
+- Railyards [https://railyards.netlify.app](https://railyards.netlify.app)
+- Affiliated Members Insurance
+ 
 
 ### DNN
 - Digistream [https://digistream.com/](https://digistream.com/)
